@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(78, 156, 170, 0.979);
+}
+h1 {
+    text-align: center;
+    color: rgb(94, 255, 0);
+    font-size: 50px;
+}
+p{
+    background-color: rgb(165, 103, 139);
+    font-size: 20px;
+}
+.pon{
+    display: inline-block;
+    height:300px;
+}
