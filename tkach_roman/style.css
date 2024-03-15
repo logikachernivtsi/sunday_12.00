@@ -1,0 +1,35 @@
+
+main {
+    color: yellow;
+    background-color: darkcyan;
+}
+h1{
+    color:rgb(75, 106, 146);
+    font-size: 50px;
+}
+h2{
+    color:yellowgreen ;
+    font-size: 40px;
+}
+header{
+    background-color: black;
+}
+
+footer{
+    background-color: yellowgreen; 
+}
+body{
+    background-color: yellowgreen;    
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+    width:90%;
+}
+
+.wat{
+     width:50%;
+}
