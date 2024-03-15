@@ -28,6 +28,7 @@ header img {
     margin-bottom: 10px;
     width:45%;
     height:45%;
+    margin-left:0;
 }
 
 p{
@@ -68,5 +69,6 @@ h2 {
 }
 
 img {
-    width:100%;
+   width: 50%;
+    margin-left: 25%;
 }
