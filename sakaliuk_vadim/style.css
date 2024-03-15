@@ -1,0 +1,23 @@
+p{
+font-size: 25px;
+}
+header img{
+    width: 100%;
+    height:100%;
+}
+
+h1{
+    background-color: aqua;
+}
+
+p{
+    background-color: lightblue;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 35px;
+    color: rgb(71, 29, 0);
+    padding:7px;
+    margin-left: 150px;
+}
